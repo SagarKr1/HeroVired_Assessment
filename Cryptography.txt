@@ -1,0 +1,79 @@
+Q.7 What is Cryptography primarily used for? 
+a) Data storage 
+b) Securing communication 
+c) Database indexing 
+d) Web development
+
+ANS : b) Securing communication
+
+Q.8 Which of the following is a type of symmetric encryption? 
+a) RSA 
+b) AES 
+c) ECC 
+d) Diffie-Hellman
+
+ANS : b) AES
+
+Q.9 Which of these is an asymmetric encryption algorithm? 
+a) DES 
+b) AES 
+c) RSA 
+d) Blowfish
+
+ANS : c) RSA
+
+Q.10 What is the key difference between symmetric and asymmetric encryption? 
+a) Symmetric uses one key; asymmetric uses two keys 
+b) Asymmetric is faster than symmetric 
+c) Symmetric is only used for hashing 
+d) Asymmetric encryption does not exist
+
+ANS : a) Symmetric uses one key; asymmetric uses two keys
+
+Q.11 Which of these is NOT a hashing algorithm? 
+a) SHA-256 
+b) MD5 
+c) Blowfish 
+d) SHA-1
+
+ANS : c) Blowfish
+
+Q.12 Which cryptographic attack exploits predictable key generation?
+a) Birthday attack
+b) Timing attack
+c) Key reuse attack
+d) Weak key attack
+
+ANS : d) Weak key attack
+
+Q.13 Which factor makes an encryption algorithm post-quantum secure? 
+a) High processing power 
+b) Use of large prime numbers 
+c) Resistance to Shor’s algorithm
+d) Smaller key sizes
+
+ANS : c) Resistance to Shor’s algorithm
+
+Q.14 Which of the following helps mitigate replay attacks? 
+a) Encrypting messages 
+b) Using nonces and timestamps 
+c)Using stronger passwords
+d) Shortening encryption keys
+
+ANS : b) Using nonces and timestamps
+
+Q.15 Which algorithm is primarily used for email encryption? 
+a) PGP 
+b) AES 
+c) SHA-256 
+d) RSA
+
+ANS : a) PGP
+
+Q.16 What is a quantum-safe cryptographic algorithm?
+a) An encryption method that is immune to quantum computing attacks
+b) An encryption method that is very fast 
+c) A deprecated algorithm 
+d) An algorithm used only in quantum computers
+
+ANS : a) An encryption method that is immune to quantum computing attacks
